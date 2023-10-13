@@ -32,9 +32,8 @@ I have a strong interest in Web development and AI/ML.
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
- 
 
-[![@akanksha1131'sHolopin board](https://holopin.me/akanksha1131)](https://holopin.io/@akanksha1131)
+[![@akanksha1131's Holopin board](https://holopin.io/api/user/board?user=akanksha1131)](https://holopin.io/@akanksha1131)
 
 
 

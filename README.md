@@ -1,7 +1,8 @@
 
 
 ![banner (1)](banner.png)
-<img align="right" alt="coding" width="400" src="coding gif.gif">
+<img align="right" alt="coding" width="400" src="coding gif.gif" style="margin-top: 20px; margin-right: 20px;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha1131&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha1131" /> </p>
 Hello👋! I'm Akanksha Kale, currently a Junior at MKSSS's Cummins College of Engineering For Women.

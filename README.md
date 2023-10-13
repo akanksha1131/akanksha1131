@@ -6,8 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha1131&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha1131" /> </p>
 Hello👋! I'm Akanksha Kale, currently a Junior at MKSSS's Cummins College of Engineering For Women.
+<br />
 I'm pursuing my B.Tech in Information Technology and I'm expected to graduate in 2025.
+<br />
 I enjoy participating in various hackathons and contributing to Open Source Projects.
+<br />
 I have a strong interest in web development and AI/ML. 
 
 

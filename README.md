@@ -1,4 +1,7 @@
- Hello👋! I'm Akanksha Kale, currently a Junior at MKSSS's Cummins College of Engineering For Women, Pune. I'm pursuing my B.Tech in Information Technology and I'm expected to graduate in 2025. I have a strong interest in web development and AI/ML. 
+Hello👋! I'm Akanksha Kale, currently a Junior at MKSSS's Cummins College of Engineering For Women.. 
+I'm pursuing my B.Tech in Information Technology and I'm expected to graduate in 2025.
+I enjoy participating in various hackathons and contributing to Open Source Projects.
+I have a strong interest in web development and AI/ML. 
 
 <!--
 **akanksha1131/akanksha1131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

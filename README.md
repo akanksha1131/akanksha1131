@@ -34,7 +34,7 @@ I have a strong interest in Web development and AI/ML.
 
 
 
-[![@akanksha1131's's Holopin board](https://holopin.io/api/user/board?user=akanksha1131)](https://holopin.io/@akanksha1131)
+[![An image of @akanksha1131's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akanksha1131)](https://holopin.io/@akanksha1131)
 
 
 
